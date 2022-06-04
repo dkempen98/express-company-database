@@ -1,0 +1,23 @@
+{
+  "name": "express-company-database",
+  "version": "1.0.0",
+  "description": "Inline database generation using express to make changes to the contents.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkempen98/express-company-database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkempen98/express-company-database/issues"
+  },
+  "homepage": "https://github.com/dkempen98/express-company-database#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
