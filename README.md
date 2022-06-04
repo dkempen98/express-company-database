@@ -1,2 +1,2 @@
-# express-company-database
+# inline-company-database
 Inline database generation using express to make changes to the contents.
