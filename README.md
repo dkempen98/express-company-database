@@ -18,10 +18,6 @@ Make sure to add your username and password for mySQL
 
 The inline commands allow you to view and make changes to employees in your company
 
-## License
-
-Here is a link to my MIT license file: [Link](./license)
-
 ## Questions?
 
 Still have any questions? Feel free to reach me using:
